@@ -1,0 +1,2 @@
+# 4ji
+Alfred workflow
