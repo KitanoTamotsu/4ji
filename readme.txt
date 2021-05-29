@@ -1,7 +1,7 @@
 四字熟語.alfredworkflowのメモ
 
 機能：
-　難読四字熟語（https://yattoke.com/2018/08/28/1g-yojijyukugo）を表示する
+　難読四字熟語（　https://yattoke.com/2018/08/28/1g-yojijyukugo　）を表示する
 
 インストール：
 　1.alfredworkflowをダウンロード
@@ -9,7 +9,7 @@
 
 使い方：
 　キーワード『4ji』を入力するとランダムに難読四字熟語が表示されます
-　
+　サンプル動画『四字熟語.m4v』をご覧くださいな
 
 開発メモ：
 
