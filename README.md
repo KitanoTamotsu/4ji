@@ -1,5 +1,7 @@
 ## 　　Lesson26.　四字熟語であそんでみる  
 #### 開発メモ
+[サンプル動画](https://user-images.githubusercontent.com/40127279/126054855-eeafbedd-424e-4c55-ab95-e5e40d7f9443.mp4)
+
 Lesson7などのパース系ワークフローから派生して作成しています
 
 ### 1.四字熟語のサイトを探す
