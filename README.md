@@ -1,8 +1,10 @@
 ## 　　Lesson26.　四字熟語であそんでみる  
 #### 開発メモ
 [サンプル動画](https://user-images.githubusercontent.com/40127279/126054855-eeafbedd-424e-4c55-ab95-e5e40d7f9443.mp4)
-
-Lesson7などのパース系ワークフローから派生して作成しています
+ワークフロー
+<BR><img width="600" src="https://user-images.githubusercontent.com/40127279/127757593-1d2e5973-0fa3-461a-a40c-50384ba07e9d.png">
+  
+<BR>Lesson7などのパース系ワークフローから派生して作成しています
 
 ### 1.四字熟語のサイトを探す
 　実は、この題材となるサイトをさがす作業が一番苦労します
@@ -36,6 +38,8 @@ Lesson7などのパース系ワークフローから派生して作成してい�
 <br>　subtitleにはその四字熟語の意味
 <br>　linkは、四字熟語として、後続フローでデフォルトブラウザでの検索につなげています
 <br>
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127757628-878dea45-b984-4fca-9d72-071f734199ec.png">
+ 
 #### 背景
 　 Lesson16『トリビアの泉のランダム表示』を作成したときに、四字熟語のランダム表示
 <br>　思いつき作りました。
