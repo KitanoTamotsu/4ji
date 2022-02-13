@@ -55,4 +55,3 @@
 <br>
 <br>
 [トップページに戻る](https://kitanotamotsu.github.io/)
-
